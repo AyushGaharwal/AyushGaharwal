@@ -1,68 +1,103 @@
-# Hi there, I'm Ayush Gaharwal 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ayush+Gaharwal;Full+Stack+Developer;Tech+Enthusiast;Always+Learning" alt="Typing animation" />
+</div>
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in full-stack development, cloud technologies, and open-source contributions.
+# 👋 Welcome to My Profile
 
-## 🚀 About Me
+<div align="center">
+  <h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em;">
+    Ayush Gaharwal
+  </h1>
+  <p>🚀 Full Stack Developer | 💻 Open Source Contributor | 🎯 Problem Solver</p>
+</div>
 
-- 🔭 I'm currently working on various innovative projects
-- 🌱 I'm continuously learning new technologies and best practices
-- 💬 Ask me about anything tech-related!
-- 📫 How to reach me: [Your contact info]
-- ⚡ Fun fact: I love solving complex problems and building amazing things
+---
 
-## 💻 Tech Stack
+## 🛠️ Technical Skills
+
+<div align="center">
 
 ### Languages
-- **Python** - Data science, automation, backend development
-- **JavaScript/TypeScript** - Frontend and full-stack development
-- **Java** - Enterprise applications
-- **C++** - System programming
-- **SQL** - Database management
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-- **Frontend**: React, Vue.js, Tailwind CSS
-- **Backend**: Node.js, Express, Django, Flask
-- **Database**: MongoDB, PostgreSQL, MySQL
-- **DevOps**: Docker, Kubernetes, CI/CD
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Postman
-- AWS & Google Cloud
-- Linux/Unix
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 My GitHub Stats
+</div>
 
-![GitHub Stats Overview](https://github-readme-stats.vercel.app/api?username=AyushGaharwal&show_icons=true&theme=radical)
+---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-- **[Project 1](link)** - Brief description
-- **[Project 2](link)** - Brief description
-- **[Project 3](link)** - Brief description
+<div align="center">
 
-## 🏆 Achievements
+| Project | Description | Tech Stack | Link |
+|---------|-------------|-----------|------|
+| **Project One** | A full-stack web application with real-time features | React, Node.js, MongoDB | [Repo](https://github.com/AyushGaharwal/project-one) |
+| **Project Two** | Mobile-responsive dashboard with data visualization | Vue.js, Express, PostgreSQL | [Repo](https://github.com/AyushGaharwal/project-two) |
+| **Project Three** | Python automation and data processing tool | Python, Pandas, SQLAlchemy | [Repo](https://github.com/AyushGaharwal/project-three) |
 
-- Active open-source contributor
-- Passionate about clean code and best practices
-- Continuous learner and innovator
+</div>
 
-## 📝 Blog & Articles
+---
 
-Check out my thoughts on development, technology trends, and best practices on my blog/medium.
+## 📊 GitHub Statistics
 
-## 🤝 Let's Connect!
+<div align="center">
 
-- **GitHub**: [github.com/AyushGaharwal](https://github.com/AyushGaharwal)
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
-- **Email**: [Your Email]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushGaharwal&show_icons=true&theme=radical&count_private=true)](https://github.com/AyushGaharwal)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGaharwal&layout=compact&theme=radical)](https://github.com/AyushGaharwal)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushGaharwal&theme=radical)](https://github.com/AyushGaharwal)
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushGaharwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AyushGaharwal)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AyushGaharwal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://ayushgaharwal.com)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushGaharwal&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
-**Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate!** 🚀
+### 💡 "Code is the language of the future, and I'm fluent in it."
+
+**Made with ❤️ by Ayush Gaharwal**
+
+</div>
