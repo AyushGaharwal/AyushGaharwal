@@ -70,11 +70,6 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushGaharwal&show_icons=true&theme=radical&count_private=true)](https://github.com/AyushGaharwal)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGaharwal&layout=compact&theme=radical)](https://github.com/AyushGaharwal)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushGaharwal&theme=radical)](https://github.com/AyushGaharwal)
 
 </div>
