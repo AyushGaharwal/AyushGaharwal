@@ -1,39 +1,68 @@
-# Hi there 👋
+# Hi there, I'm Ayush Gaharwal 👋
 
-I'm **Ayush Gaharywal**, a passionate **Full Stack Developer** dedicated to crafting efficient, scalable, and user-centric solutions.
+Welcome to my GitHub profile! I'm a passionate developer with interests in full-stack development, cloud technologies, and open-source contributions.
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with expertise in modern web technologies
-- 🎯 Passionate about building innovative solutions and solving complex problems
-- 📚 Continuously learning and exploring new technologies
-- 🌱 Interested in open-source contributions
-- ⚡ Quick learner with strong problem-solving skills
+- 🔭 I'm currently working on various innovative projects
+- 🌱 I'm continuously learning new technologies and best practices
+- 💬 Ask me about anything tech-related!
+- 📫 How to reach me: [Your contact info]
+- ⚡ Fun fact: I love solving complex problems and building amazing things
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-**Languages:** JavaScript, Python, Java, C++, SQL
+### Languages
+- **Python** - Data science, automation, backend development
+- **JavaScript/TypeScript** - Frontend and full-stack development
+- **Java** - Enterprise applications
+- **C++** - System programming
+- **SQL** - Database management
 
-**Frontend:** React, Next.js, HTML, CSS, Tailwind CSS
+### Frameworks & Libraries
+- **Frontend**: React, Vue.js, Tailwind CSS
+- **Backend**: Node.js, Express, Django, Flask
+- **Database**: MongoDB, PostgreSQL, MySQL
+- **DevOps**: Docker, Kubernetes, CI/CD
 
-**Backend:** Node.js, Express, Django, Flask
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- Postman
+- AWS & Google Cloud
+- Linux/Unix
 
-**Databases:** MongoDB, PostgreSQL, MySQL
+## 📊 My GitHub Stats
 
-**Tools & Platforms:** Git, Docker, AWS, VS Code
+![GitHub Stats Overview](https://github-readme-stats.vercel.app/api?username=AyushGaharwal&show_icons=true&theme=radical)
 
-## 📊 GitHub Activity
+## 🌟 Featured Projects
 
-Visit my [GitHub Profile](https://github.com/AyushGaharwal) to explore my repositories and contributions.
+- **[Project 1](link)** - Brief description
+- **[Project 2](link)** - Brief description
+- **[Project 3](link)** - Brief description
 
-## 📱 Connect With Me
+## 🏆 Achievements
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-gaharywal)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AyushGaharwal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://ayushgaharywal.com)
+- Active open-source contributor
+- Passionate about clean code and best practices
+- Continuous learner and innovator
+
+## 📝 Blog & Articles
+
+Check out my thoughts on development, technology trends, and best practices on my blog/medium.
+
+## 🤝 Let's Connect!
+
+- **GitHub**: [github.com/AyushGaharwal](https://github.com/AyushGaharwal)
+- **LinkedIn**: [Your LinkedIn Profile]
+- **Twitter**: [Your Twitter Handle]
+- **Email**: [Your Email]
 
 ---
 
-**Last Updated:** 2026-01-11
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyushGaharwal&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-*Thank you for visiting! Feel free to explore my projects and get in touch if you'd like to collaborate.* 🚀
+**Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate!** 🚀
